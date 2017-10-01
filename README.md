@@ -12,12 +12,18 @@
 
 * 能夠使用 CSS 做出網頁排版與 RWD 響應式設計。
 * 會使用 Sass 規劃 Web layout 架構。
+
+### Bootstrap3
+
+* 使用 Bootstrap3 設計界面
+* Fullcalendar Taskboard Travel(Map) 
  
 ### Javascript/Framework
 
-* 對原生 Javascript 有基礎的了解，目前較常使用 JQuery 做開發與練習。
 * Jquery - 會使用 Jquery 做動畫效果。
-* 接觸過 AngularJS 開發框架，但仍然習慣可讀性高的原生 Javascript。
+* 熟悉 AJAX 串接資料(MongoDB、mySQL)。
+* 接觸過 Vue 開發框架，但仍然習慣可讀性高的原生 Javascript。
+* Json 資料處理
 
 ### PHP/mySQL
 
@@ -25,10 +31,15 @@
 * Codeigniter 是目前最為熟悉的 MVC架構。
 * 能夠透過 mySQL 與 PHP 實現管理者直接在 web 上管理網站上的文字、圖片和資料。
 
+### Python/Flask
+
+* 與使用 Flask 的後端合作，知道如何使用 jinja2 語法。
+
 ### Git/GitHub
 
 * 能夠使用 GitHub Pages 建立一個靜態網頁。
 * 對Git版本控制有基礎的了解，能夠抓取遠端資料庫到本機進行作業、創建分支、合併分支與推送到遠端資料庫。
+* 使用 SourceTree、Bitbucket 做版本控制與管理。
 
 ### 其他
 
@@ -41,6 +52,8 @@
 * 吾宿山(學校作業) - http://140.127.218.151/ -會員s123456788，員工s123456789，密碼皆為 1
 * 使用 Vue 串接第三方API（google map API & 高雄市政府開放平台 API) - https://ck7179.github.io/Web-Design/final/
 * 畢業專題 - https://github.com/jwc911037/PeckerWriter
+* 穎威科技官網(Winway) - 前端已完成，目前尚未正式上線 - http://winwayglobalwebsite.azurewebsites.net/
+* 美國警用MIS網站 Sherpa (使用 Bootstrap3) - 目前尚未正式上線
 
 ## 自我介紹
 
